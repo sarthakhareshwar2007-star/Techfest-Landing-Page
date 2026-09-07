@@ -1,0 +1,6 @@
+{
+  "name": "Techfest Landing Page",
+  "description": "A cool, professional, and human-style landing page concept for Techfest (IIT Bombay).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
